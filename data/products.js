@@ -1527,14 +1527,6 @@ export const products = [
     likes: 268,
   },
     {
-    id: "vlr-204",
-    name: "male slider",
-    category: "bags",
-    reviews: 187,
-    image: "/images/slider4.jpg",
-    likes: 268,
-  },
-    {
     id: "vlr-205",
     name: "male slipper",
     category: "bags",
