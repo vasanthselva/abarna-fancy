@@ -53,7 +53,7 @@ export default function ProductDetailClient({ product }) {
           }`}
         >
           <Heart size={18} fill={liked ? "currentColor" : "none"} />
-          {liked ? "Liked" : "Like this"} · {likeCount.toLocaleString("en-IN")}
+          {liked ? "Liked" : "Like"} · {likeCount.toLocaleString("en-IN")}
         </button>
       </div>
     </div>
