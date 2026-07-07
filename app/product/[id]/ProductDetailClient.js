@@ -48,7 +48,7 @@ export default function ProductDetailClient({ product }) {
           onClick={() => toggleLike(product.id)}
           className={`mt-6 w-full flex items-center justify-center gap-2 py-3 rounded-full font-medium transition-colors ${
             liked
-              ? "bg-blue text-white hover:bg-black/90"
+              ? "bg-blue text-white hover:bg-blue/90"
               : "bg-black text-white hover:bg-blue hover:text-black"
           }`}
         >
