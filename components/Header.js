@@ -49,7 +49,7 @@ export default function Header() {
 
               <button
                 type="submit"
-                className="bg-black hover:bg-gray-800 px-5 py-2.5 text-white"
+                className="bg-black hover:bg-blue-800 px-5 py-2.5 text-white"
               >
                 <Search size={18} />
               </button>
@@ -81,7 +81,7 @@ export default function Header() {
 
               <button
                 type="submit"
-                className="bg-black hover:bg-gray-800 px-5 py-2.5 text-white"
+                className="bg-black hover:bg-blue-800 px-5 py-2.5 text-white"
               >
                 <Search size={18} />
               </button>
