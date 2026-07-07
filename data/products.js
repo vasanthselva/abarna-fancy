@@ -143,7 +143,7 @@ export const products = [
   },
     {
     id: "vlr-021",
-    name: "Apsara Magic 2.0",
+    name: "Apsara Magic 2.0 pencils",
     category: "Stationary",
     image: "/images/apsara magic.jpg",
     likes: 412,
