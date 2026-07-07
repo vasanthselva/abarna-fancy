@@ -330,7 +330,7 @@ export const products = [
   },
     {
     id: "vlr-045",
-    name: "fevi quick",
+    name: "fevi kwik",
     category: "Stationary",
     image: "/images/fevi quick.jpg",
     likes: 220,
