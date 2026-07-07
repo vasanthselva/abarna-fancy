@@ -49,7 +49,7 @@ export default function ProductDetailClient({ product }) {
           className={`mt-6 w-full flex items-center justify-center gap-2 py-3 rounded-full font-medium transition-colors ${
             liked
               ? "bg-blue text-white hover:bg-blue/90"
-              : "bg-black text-white hover:bg-blue hover:text-black"
+              : "bg-black text-white hover:bg-black hover:text-white"
           }`}
         >
           <Heart size={18} fill={liked ? "currentColor" : "none"} />
