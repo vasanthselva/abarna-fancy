@@ -1307,7 +1307,7 @@ export const products = [
     name: "hair ribbon all colors available",
     category: "Hair-Acessories",
     reviews: 187,
-    image: "/images/ribon.htm",
+    image: "/images/Ribbon.jpg",
     likes: 268,
   },
   {
