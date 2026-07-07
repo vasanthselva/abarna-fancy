@@ -332,7 +332,7 @@ export const products = [
     id: "vlr-045",
     name: "fevi quick",
     category: "Stationary",
-    image: "/images/fevi quick.jpg ",
+    image: "/images/fevi quick.jpg",
     likes: 220,
   },
    {
