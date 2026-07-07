@@ -43,7 +43,7 @@ export default function ProductCard({ product }) {
           className={`mt-3 w-full flex items-center justify-center gap-2 text-sm py-2 rounded-md font-medium transition-colors ${
             liked
               ? "bg-blue text-white hover:bg-blue/90"
-              : "bg-black text-white hover:bg-blue hover:text-black"
+              : "bg-black text-white hover:bg-black hover:text-black"
           }`}
         >
           <Heart size={15} fill={liked ? "currentColor" : "none"} />
