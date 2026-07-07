@@ -1095,10 +1095,10 @@ export const products = [
   },
    {
     id: "vlr-149",
-    name: "stumper ball",
+    name: "Stumper ball",
     category: "Ropes",
     reviews: 187,
-    image: "/images/Stumper ball.jpg",
+    image: "/images/stumper ball.jpg",
     likes: 268,
   },
  {
