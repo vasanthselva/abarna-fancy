@@ -42,7 +42,7 @@ export default function ProductCard({ product }) {
           onClick={() => toggleLike(product.id)}
           className={`mt-3 w-full flex items-center justify-center gap-2 text-sm py-2 rounded-md font-medium transition-colors ${
             liked
-              ? "bg-blue text-white hover:bg-black/90"
+              ? "bg-blue text-white hover:bg-blue/90"
               : "bg-black text-white hover:bg-blue hover:text-black"
           }`}
         >
